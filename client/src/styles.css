@@ -49,4 +49,11 @@
     border-top: 1px solid #eee;
     padding: 15px 0;
   }
-  
+
+.img-circle {
+    max-height: 50px;
+}
+
+.rounded-circle{
+  max-height: 50px;
+}
